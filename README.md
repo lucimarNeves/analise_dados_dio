@@ -152,9 +152,9 @@ class TweetAnalyzer():
  
  #Análise de sentimentos
 
-# 0 - sentimento negativo
-# 1 - sentimento positivo
-# -1 - sentimento neutro
+#0 - sentimento negativo
+#1 - sentimento positivo
+#-1 - sentimento neutro
 
 
 #exibindo os dados 
