@@ -1,4 +1,4 @@
-## analise_dados_dio dos trends do twitter
+## Análise_dados_dio dos trends do twitter
 
 ##coleta de dados
 
